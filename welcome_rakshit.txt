@@ -1,0 +1,10 @@
+Welcome to Business Management System, rakshit!
+
+Thank you for joining our platform. Here are your account details:
+Username: rakshit
+Email: rbagait2018@gmail.com
+
+Getting Started:
+1. Log in to your account
+2. Explore the dashboard
+3. Start managing your business
